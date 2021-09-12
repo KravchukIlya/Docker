@@ -15,7 +15,7 @@ function App() {
                     target='_blank'
                     rel='noopener noreferrer'
                 >
-                    Привет Docker
+                    Привет Dockereeeeeeee
                 </a>
             </header>
         </div>
